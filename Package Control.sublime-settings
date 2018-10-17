@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"ESLint",
+		"JsPrettier"
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"ESLint",
+		"JsPrettier",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter"
+	]
+}
